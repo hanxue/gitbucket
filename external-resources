@@ -1,0 +1,3 @@
+org.scalatest scalatest_{scala_version} {scalatest_version}
+org.mortbay.jetty jetty_{scala_version} {jetty_version}
+servletapi servletapi {servlet_version}
